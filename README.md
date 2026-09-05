@@ -1,16 +1,27 @@
-## Hi there 👋
+# Ola!
 
-<!--
-**JonnasWevany2002/JonnasWevany2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Jonnas Wevany Carnauba Silva
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-🧑‍🎓Estudante de ADS
+-🖥️Aprendendo "Linguagem"
+-🎮Interesse em "Jogos"
+-📚Atualmente estudando C#
+
+## Tecnologias
+
+- C#
+- C
+- Html
+- Css
+
+## Projetos
+
+Aqui você pode encontrar meus projetos, estudos e experimetos.
+
+## Contato
+
+-✉️Email: jonnaswevany2002@hotmail.com
+
+⭐Obrigado  por visitar meu perfil!
